@@ -1,4 +1,4 @@
-                                           # CV
+ # CV
 
 ## Dzmitry Pachyn
 
@@ -15,12 +15,12 @@ I am 28 years old . At the moment I want to change jobs, so I chose the plague a
 
 ### Skills
 
-*HTML
-*CSS/SASS
-*JavaScript
-*Git
-*Figma
-*Photoshop
+* HTML
+* CSS/SASS
+* JavaScript
+* Git
+* Figma
+* Photoshop
 
 ### Code Examples
 `console.log('Hello, World');`
