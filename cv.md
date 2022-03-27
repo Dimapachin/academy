@@ -1,6 +1,7 @@
  # CV
 
 ## Dzmitry Pachyn
+![avatar](/cv1.jpg "avatar")
 
 ### Junior Frontend Developer
 
@@ -17,13 +18,16 @@ I am 28 years old . At the moment I want to change jobs, so I chose the plague a
 
 * HTML
 * CSS/SASS
-* JavaScript
 * Git
 * Figma
 * Photoshop
 
 ### Code Examples
-`console.log('Hello, World');`
+```
+function multiply(a, b){
+ return a * b;
+}
+```
 
 ### Education 
 * Courses:
